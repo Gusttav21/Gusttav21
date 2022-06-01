@@ -14,3 +14,7 @@ Aqui eu mostro todo o meu processo de aprendizado em programação.
 📫 Como entrar em contato comigo...
 
 Email: Gusttav2100@gmail.com
+
+
+## Tecnologias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttav21)](https://github.com/gusttav21)
