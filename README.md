@@ -8,8 +8,8 @@ Aqui eu mostro todo o meu processo de aprendizado em programação.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavovinicius/)
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na Camaro Electric Automação Industrial
+## Contato
+
 
 
 📫 Como entrar em contato comigo...
